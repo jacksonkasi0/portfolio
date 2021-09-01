@@ -45,7 +45,7 @@
     position: absolute;
     left: 50%;
     margin-top: 25px;
-    height: 1100px;
+    height: 1230px;
 }
 
 .logo {
@@ -101,7 +101,7 @@
     font-size: 20px;
     width: 50%;
     color: rgb(10, 8, 8);
-    margin-left: 18%;
+    margin-left: 13%;
     text-align: center;
     align-self: center;
     display: apsolute;
@@ -123,11 +123,11 @@ tr {
 }
 
 .table-1 input {
-    margin-left: 29%;
+    margin-left: 4%;
 }
 
 .table-2 input {
-    margin-left: 6%;
+    margin-left: -28%;
 }
 
 input {
